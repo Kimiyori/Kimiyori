@@ -9,8 +9,9 @@ Some crappy programmer learning some crappy web programming
 
 ## ⚡ Technologies
 
-![Python](https://img.shields.io/badge/-Python-ACBC34?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-FAEB05?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FF8700?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-343F60?style=flat-square&logo=typescript)
   
 ![Django](https://img.shields.io/badge/-Django-25C242?style=flat-square&logo=Django)
 ![Aiohttp](https://img.shields.io/badge/-Aiohttp-30C1A6?style=flat-square&logo=Aiohttp)
