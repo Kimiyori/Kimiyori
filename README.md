@@ -29,9 +29,4 @@ Some crappy programmer learning some crappy web programming
 ![Docker](https://img.shields.io/badge/-Docker-FFFFFF?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Nginx](https://img.shields.io/badge/-Nginx-C9E346?style=flat-square&logo=nginx)
-
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kimiyori&hide=TeX&layout=compact&theme=aura)
-
 </div>
